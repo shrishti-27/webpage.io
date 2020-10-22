@@ -1,0 +1,30 @@
+body {
+  background-image: url("img/b.jpg");
+  background-repeat: no-repeat;
+  background-size: 2000px 2000px;
+}
+.navbar-nav .nav-item:hover .nav-link {
+    color: tomato;
+}
+.text{
+	margin: 20px;
+	padding: 10px;
+	color: tomato;
+	}
+.stext{
+	margin: 20px;
+	padding: 10px;
+}
+.ptext{
+	font-size:25px;
+	}
+
+a.btn{
+	margin: 70px 280px;
+	width:150px;
+	padding:10px;
+	border-radius: 20px;
+}
+.btn-first{
+	background-color: tomato;
+	color: white;}
